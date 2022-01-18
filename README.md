@@ -52,6 +52,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Sample:
 
+M09 - README Generator Walkthrough.webm
 
 
 ## GitHub URL:
