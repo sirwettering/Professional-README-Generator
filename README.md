@@ -52,7 +52,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Sample:
 
-Sample-README.png
+![Sample](Sample-README.png)
 
 ## GitHub URL:
 
