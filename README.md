@@ -54,4 +54,6 @@ THEN I am taken to the corresponding section of the README
 
 
 
-## GitHub URL# Professional-README-Generator
+## GitHub URL:
+
+[README Generator GitHub URL](https://github.com/sirwettering/Professional-README-Generator)
