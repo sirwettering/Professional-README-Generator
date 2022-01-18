@@ -48,11 +48,10 @@ THEN I am taken to the corresponding section of the README
 
 ## Walkthrough Video:
 
-
+[Watch the Walkthrough Video here!](https://watch.screencastify.com/v/TuloZq4P6NmdXpg1ARKQ)
 
 ## Sample:
 
-M09 - README Generator Walkthrough.webm
 
 
 ## GitHub URL:
